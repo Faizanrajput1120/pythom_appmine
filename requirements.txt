@@ -6,9 +6,9 @@ itsdangerous==2.1.2
 Jinja2==3.1.3
 MarkupSafe==2.1.5
 Werkzeug==3.0.1
-requests
-jsonify
-base64
-Pillow
-ExifTags
-face_recognition
+requests==2.32.3
+jsonify==0.5
+pybase64==1.4.0
+pillow==10.4.0
+exif==1.6.0
+face-recognition==1.3.0
